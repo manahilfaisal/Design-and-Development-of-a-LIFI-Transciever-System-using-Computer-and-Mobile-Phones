@@ -7,7 +7,6 @@ This repository contains a software-based prototype implementation of a **Li-Fi 
 ## Overview
 Li-Fi is an emerging wireless communication technology that utilizes the visible light spectrum for data transmission. This project implements a complete Li-Fi communication cycle entirely using off-the-shelf consumer devices and software tools, including data encoding, optical modulation, sensor-based reception, signal processing, and decoding.
 
-**Note:** No dedicated transmitters, receivers, or custom hardware components are used.
 
 ---
 
@@ -59,7 +58,7 @@ Detailed experimental results—including lux-versus-time plots, data cleaning s
 * Smartphone with a built-in ambient light sensor
 
 ### **Software**
-* **Python 3.7***
+* **Python 3.7+**
 * **phyphox** mobile application
 * **Python Libraries:** `pandas`, `numpy`, `matplotlib`, `scipy`, `tkinter`
 
