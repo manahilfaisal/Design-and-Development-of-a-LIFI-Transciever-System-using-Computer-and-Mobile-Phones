@@ -59,7 +59,7 @@ Detailed experimental results—including lux-versus-time plots, data cleaning s
 * Smartphone with a built-in ambient light sensor
 
 ### **Software**
-* **Python 3.x**
+* **Python 3.7***
 * **phyphox** mobile application
 * **Python Libraries:** `pandas`, `numpy`, `matplotlib`, `scipy`, `tkinter`
 
