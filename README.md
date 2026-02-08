@@ -73,11 +73,4 @@ Initial experiments resulted in indistinguishable bit transitions, leading to un
 
 ---
 
-## Authors
-**Department of Electrical Engineering**, 
-Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
 
-**Contributors:** Palwasha Binte Inam, Manahil Faisal, Sara bint Bilal, Rafay Saeed
-
-## Acknowledgements
-Special thanks to **Dr. Nisar Ahmed** and **Sir Asad Malik** for their continuous guidance and support.
